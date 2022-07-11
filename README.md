@@ -19,3 +19,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 [MİT](https://choosealicense.com/licenses/mit/)
 
 ![projemizin bir resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+(www.patika.dev) 
